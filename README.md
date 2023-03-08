@@ -4,11 +4,11 @@ Welcome to your journey of learning R! This repository is intended to be a resou
 
 ## Installing R
 
-To get started with R, you'll need to install it on your computer. Visit the official R project website at https://www.r-project.org/ to download and install R on your computer.
+Visit the official R project website at https://www.r-project.org/ to download and install R on your computer.
 
 ## Installing RStudio
 
-RStudio is a powerful Integrated Development Environment (IDE) that makes it easy to work with R. It provides an easy-to-use interface, debugging tools, and a variety of other features that make working with R much more efficient. Visit the RStudio website at https://www.rstudio.com/ to download and install RStudio on your computer.
+RStudio is a powerful IDE that makes it easy to work with R. It provides an easy-to-use interface, debugging tools, and a variety of other features that make working with R much more efficient. Visit the RStudio website at https://www.rstudio.com/ to download and install RStudio on your computer.
 
 ## Useful Resources
 
